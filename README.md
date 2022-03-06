@@ -10,9 +10,7 @@ A Full Stack JavaScript Developer.
 
 - 🔭 I’m currently working at @Skillmine
 - 👨‍💻 MERN Stack Developer
-- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 Feel free to reach me out at : vikashg2684@gmail.com
-
 
 
 #### Top Technologies
