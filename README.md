@@ -9,7 +9,7 @@ A Full Stack JavaScript Developer.
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Skillmine
-- 👨‍💻 MERN Stack | React-native
+- 👨‍💻 MERN Stack | React-native Developer
 - 📫 Feel free to reach me out at : vikashg2684@gmail.com
 
 
