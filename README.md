@@ -6,7 +6,7 @@
 <!-- TODO: Add last video link -->
 
 - 👨‍💻 Software Development Engineer(SDE) at @Skillmine
-- 📫 Feel free to reach me out at : [vikashgupta.com](https://vikashgupta.bio.link/)
+- 📫 Feel free to reach me out at : [vikashgupta](https://vikashgupta.bio.link/)
 
 
  
