@@ -1,34 +1,13 @@
-## Hey, I'm Vikash
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Vikash!](https://vikashgupta.bio.link/)
 
-A Full Stack JavaScript Developer.
 
-:mailbox: Connect with me!!
-
-[![Linkedin Badge](https://img.shields.io/badge/-vikashgupta256-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashgupta256/) [![Mail Badge](https://img.shields.io/badge/-vikashg2684-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vikashg2684@gmail.com)
+### [Connect with me 💬](https://vikashgupta.bio.link/)
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Skillmine
-- 👨‍💻 MERN Stack | React-native Developer
-- 📫 Feel free to reach me out at : vikashg2684@gmail.com
+- 👨‍💻 Software Development Engineer(SDE) at @Skillmine
+- 📫 Feel free to reach me out at : [vikashgupta.com](https://vikashgupta.bio.link/)
 
 
-#### Top Technologies
+ 
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-
-### Languages
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<br />
-<br />
