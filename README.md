@@ -5,7 +5,7 @@
 
 <!-- TODO: Add last video link -->
 
-- 👨‍💻 Senior Software Engineer at @Skillmine
+- 👨‍💻 Lead Assistant Manager at @EXL
 - 📫 Feel free to reach me out at : [@vikashgupta](https://vikashgupta.bio.link/)
 
 **Languages:**  
