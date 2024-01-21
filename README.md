@@ -5,7 +5,6 @@
 
 <!-- TODO: Add last video link -->
 
-- 👨‍💻 Lead Assistant Manager at @EXL
 - 📫 Feel free to reach me out at : [@vikashgupta](https://vikashgupta.bio.link/)
 
 **Languages:**  
